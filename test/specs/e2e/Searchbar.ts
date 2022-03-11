@@ -60,3 +60,6 @@ describe("E2E - search bar", async () => {
         await expect(await SearchbarPage.getInputValue()).toContain(incorrectSearchPhrase);
     })
 })
+
+
+//test 
