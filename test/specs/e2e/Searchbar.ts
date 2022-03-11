@@ -62,4 +62,4 @@ describe("E2E - search bar", async () => {
 })
 
 
-//test 
+//test new specification
