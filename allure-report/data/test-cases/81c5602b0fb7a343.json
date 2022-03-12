@@ -1,0 +1,62 @@
+{
+  "uid" : "81c5602b0fb7a343",
+  "name" : "Should click on search icon and verify url",
+  "fullName" : "E2E - search bar.Should click on search icon and verify url",
+  "historyId" : "603e1d0755edd57604b41c38aa38d91",
+  "time" : {
+    "start" : 1647093711590,
+    "stop" : 1647093714207,
+    "duration" : 2617
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "E2E - search bar"
+  }, {
+    "name" : "testClass",
+    "value" : "E2E - search bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click on search icon and verify url"
+  }, {
+    "name" : "package",
+    "value" : "E2E - search bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.51"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "81c5602b0fb7a343.json",
+  "parameterValues" : [ "chrome-99.0.4844.51" ]
+}

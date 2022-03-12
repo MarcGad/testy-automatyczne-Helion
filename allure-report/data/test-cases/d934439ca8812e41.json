@@ -1,0 +1,62 @@
+{
+  "uid" : "d934439ca8812e41",
+  "name" : "Should click on see all book button",
+  "fullName" : "E2E - search bar.Should click on see all book button",
+  "historyId" : "3738612f4bf781a1577fc4a6d87af820",
+  "time" : {
+    "start" : 1647093714755,
+    "stop" : 1647093716440,
+    "duration" : 1685
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "E2E - search bar"
+  }, {
+    "name" : "testClass",
+    "value" : "E2E - search bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click on see all book button"
+  }, {
+    "name" : "package",
+    "value" : "E2E - search bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.51"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d934439ca8812e41.json",
+  "parameterValues" : [ "chrome-99.0.4844.51" ]
+}

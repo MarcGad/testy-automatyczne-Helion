@@ -1,0 +1,62 @@
+{
+  "uid" : "f97620e193b80353",
+  "name" : "Should opern helion homepage and verify url and visible search bar",
+  "fullName" : "E2E - search bar.Should opern helion homepage and verify url and visible search bar",
+  "historyId" : "362db66ad58ae6666c3aaf72a7d6f847",
+  "time" : {
+    "start" : 1647093708161,
+    "stop" : 1647093711590,
+    "duration" : 3429
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "E2E - search bar"
+  }, {
+    "name" : "testClass",
+    "value" : "E2E - search bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should opern helion homepage and verify url and visible search bar"
+  }, {
+    "name" : "package",
+    "value" : "E2E - search bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.51"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f97620e193b80353.json",
+  "parameterValues" : [ "chrome-99.0.4844.51" ]
+}
