@@ -98,9 +98,9 @@ export const config: WebdriverIO.Config = {
         maxInstances: 1,
         //
         browserName: 'chrome',
-        //   'goog:chromeOptions': {
-        //   args: ["--headless"]
-        // },
+          'goog:chromeOptions': {
+          args: ["--headless"]
+        },
         
         acceptInsecureCerts: true
         // If outputDir is provided WebdriverIO can capture driver session logs
@@ -178,7 +178,6 @@ export const config: WebdriverIO.Config = {
     // The only one supported by default is 'dot'
     // see also: https://webdriver.io/docs/dot-reporter
     reporters: ['spec', ['allure', {
-        //@ts-ignore
         outputDir: 'allure-results',
         disableWebdriverStepsReporting: true,
         disableWebdriverScreenshotsReporting: false,
