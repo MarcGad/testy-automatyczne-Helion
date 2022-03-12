@@ -345,6 +345,7 @@ export const config: WebdriverIO.Config = {
                 }
 
                 console.log('Allure report successfully generated')
+                //@ts-ignore
                 resolve()
             })
         })
